@@ -1,0 +1,82 @@
+{
+  "atributos": [
+    "BAIRRO",
+    "dia_semana",
+    "periodo",
+    "DESCR_TIPOLOCAL"
+  ],
+  "bairros_mantidos": [
+    "BARRA FUNDA",
+    "BELA VISTA",
+    "BOM RETIRO",
+    "BRAS",
+    "BRÁS",
+    "CAMPO LIMPO",
+    "CAPAO REDONDO",
+    "CENTRO",
+    "CENTRO HISTÓRICO DE SÃO PAULO",
+    "CONSOLACAO",
+    "CONSOLAÇÃO",
+    "Desconhecido",
+    "IPIRANGA",
+    "ITAIM BIBI",
+    "ITAQUERA",
+    "JARDIM ANGELA",
+    "JARDIM PAULISTA",
+    "JD SÃO LUIS",
+    "LAPA",
+    "LIBERDADE",
+    "MOEMA",
+    "MOOCA",
+    "PINHEIROS",
+    "REPUBLICA",
+    "REPÚBLICA",
+    "SANTA CECILIA",
+    "SANTANA",
+    "SANTO AMARO",
+    "TATUAPÉ",
+    "VILA GUILHERME",
+    "VILA MARIANA"
+  ],
+  "locais_mantidos": [
+    "Centro Comercial/Empresarial",
+    "Comércio e Serviços",
+    "Condomínio Comercial",
+    "Condomínio Residencial",
+    "Desconhecido",
+    "Estacionamento/Garagem",
+    "Hospedagem",
+    "Lazer e Recreação",
+    "Outros",
+    "Residência",
+    "Restaurante e Afins",
+    "Rodovia/Estrada",
+    "Saúde",
+    "Shopping Center",
+    "Terminal/Estação",
+    "Via Pública"
+  ],
+  "dias_semana": [
+    "Segunda",
+    "Terça",
+    "Quarta",
+    "Quinta",
+    "Sexta",
+    "Sábado",
+    "Domingo",
+    "Desconhecido"
+  ],
+  "periodos": [
+    "Madrugada",
+    "Manhã",
+    "Tarde",
+    "Noite",
+    "Desconhecido"
+  ],
+  "limiar": 0.5,
+  "modelo_escolhido": "E3",
+  "classes": {
+    "0": "Furto",
+    "1": "Roubo"
+  }
+}
