@@ -46,7 +46,7 @@ O Streamlit fornecerá um endereço local, geralmente `http://localhost:8501`.
 5. Depois do deploy, abra o endereço gerado e teste o formulário.
 6. Adicione o link público da aplicação neste README e envie-o ao professor.
 
-**Link público da aplicação:** _preencher após a publicação_.
+**Link público da aplicação:** https://seguranca-publica-sp-mlp.streamlit.app/
 
 ## Dados e metodologia
 
